@@ -1,10 +1,12 @@
 # HealthLife
-An app that uses Apple's Health Kit SDK to track calories
+An app that uses Apple's Health Kit SDK to track calories.. or whatever we can really figure out
 
 ### Authors
 Levani Maisouradze  
 Ian Goldfarb  
-Adam Schuld
+Adam Schuld  
+Q 'Money' Babin  
+Lex 'OG' Alexander
 
 ### Version
 `0.0.1`
