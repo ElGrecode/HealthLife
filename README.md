@@ -2,12 +2,12 @@
 An app that uses Apple's Health Kit SDK to track calories
 
 ### Authors
-Levani Maisouradze
-Ian Goldfarb
+Levani Maisouradze  
+Ian Goldfarb  
 Adam Schuld
 
 ### Version
-'0.0.1'
+`0.0.1`
 
 ### Installation on Device
 Must have iOS 8.0.2 or later for installation on device
